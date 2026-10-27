@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="UTF-8">
+  <title>TP1 PowerShell</title>
+</head>
+<body>
+
+<h1>Trabajo Práctico 1 - PowerShell</h1>
+
+<p>Alumna: Victoria Cachagua</p>
+
+<h2>Actividades realizadas</h2>
+
+<ul>
+  <li>Obtención de la versión de PowerShell.</li>
+  <li>Verificación de la política de ejecución.</li>
+  <li>Información del sistema operativo.</li>
+  <li>Información completa del equipo mediante systeminfo.</li>
+</ul>
+
+<p>Repositorio GitHub:</p>
+
+<p>
+https://github.com/correoestudio1925-bit/TP1-PowerShell
+</p>
+
+</body>
+</html>
